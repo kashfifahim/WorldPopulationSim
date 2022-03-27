@@ -14,9 +14,13 @@
         -
     - [X] Plot the estimates
         - [ ] ISSUE with getting the decorate() to work properly
-    - [ ] Calculate the absolute and relative errors
+        - [X] SOLVED needed to import another library
+    - [X] Calculate the absolute and relative errors
+    - [ ] Fit the model to the data
     - [ ] Model the poulation growth
-        - [ ] Model with constant growth 
-            - [ ] Compute the average annual growth
-    - [ ] Simulate the population growth
+        - [X] Model with constant growth 
+            - [X] Compute the average annual growth
+              - [X] Instead of hard coding, programmatically get the ends of the table
+              - [X] calculate elapsted time, total growth, and annual growth
+    - [X] Simulate the population growth
     
